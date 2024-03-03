@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  on my Linkdein
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: I like to talk with random People
 
 <!---
 medeirosvinicius/medeirosvinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
