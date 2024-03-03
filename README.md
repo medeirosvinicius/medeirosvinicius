@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @medeirosvinicius
-- 👀 I’m interested in Data Analysis and Software Engenieer 
-- 🌱 I’m currently learning C and Python
+- 👀 I’m interested in Data Analysis , Software Engenieer 
+- 🌱 I’m currently learning C and Python .My goals is learn more.
 - 📫 How to reach me  on my Linkdein
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Read about Architeture and Design.
