@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and Python .My goals is learn more
 - 📫 How to reach me  on my Linkdein
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love Read about Architeture and Design and Sometimes about Budô 
+- ⚡ Fun fact: I love Read about Architeture and Design and Sometimes about Budô and British Literature and music
 <!---
 medeirosvinicius/medeirosvinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
