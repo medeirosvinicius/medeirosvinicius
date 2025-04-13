@@ -1,5 +1,5 @@
 
-- 👀 I’m interested in Data Analysis and Software Engenieer .
+- 👀 I’m interested in Data Scientist/Data Engineer and Software Engenieer .
 - 🌱 I’m currently learning C and Python .My goals is learn more
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Read about Architeture and Design and Sometimes about Budô and British/American Literature/music
