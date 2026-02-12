@@ -1,6 +1,6 @@
 
-- 👀 I’m interested in Data Science/Data Engineering and IT Infrastructure/Management.
-- 🌱 I’m currently learning C, Python, Java, Javascript .My goals is learn more
+- 👀 Engineering/Data Scientist in training and, in my spare time, creating some software.
+- 🌱 I’m currently learning C,C#, Python, Java, Javascript .My goals is learn more
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Read about Architecture/Design and Martial Arts and sometime also read British/American/French/Japanese Literature
 <!---
